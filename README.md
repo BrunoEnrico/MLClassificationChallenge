@@ -1,6 +1,6 @@
 <h1 align="center">Classification Machine Learning Model Challenge </h1>
 
-![Badge](https://img.shields.io/badge/status-completed-green)
+![Badge](https://img.shields.io/badge/status-finalizado-green)
 
 Modelo de Machine Learning desenvolvido durante o curso "Classificação - aprendendo a classificar dados com Machine Learning" da Alura. O código foi incrementado com OOP e refatorado para manter a integridade do código fornecido no curso.
 
